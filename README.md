@@ -104,4 +104,9 @@ Forest Whisper
 ├─ hvigorfile.ts
 ├─ oh-package.json5
 ├─ oh-package-lock.json5
+├─ assets/
+│  ├─ home.png
+│  ├─ player.png
+│  ├─ sleep-timer.png
+│  └─ community.png
 └─ README.md
