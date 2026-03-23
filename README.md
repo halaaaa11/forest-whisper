@@ -110,3 +110,10 @@ Forest Whisper
 │  ├─ sleep-timer.png
 │  └─ community.png
 └─ README.md
+---
+## 6.项目截图
+```markdown
+![Home Page](assets/home.png)
+![Player Page](assets/player.png)
+![Sleep Timer Page](assets/sleep-timer.png)
+![Community Page](assets/community.png)
