@@ -112,11 +112,9 @@ Forest Whisper
 └─ README.md
 ```
 ## 6.System Screenshots | 系统界面显示
-### Home Page 主页面
-![Home Page](assets/home.png)
-### Player Page 播放页面
-![Player Page](assets/player.png)
-### Sleep Page 睡眠定时页面
+### Home Page 主页面           Player Page 播放页面
+![Home Page](assets/home.png)    ![Player Page](assets/player.png)
+### Sleep Page 睡眠定时页面    Community Page 社区
 ![Sleep Timer Page](assets/sleep-timer.png)
-### Community Page 社区
 ![Community Page](assets/community.png)
+
