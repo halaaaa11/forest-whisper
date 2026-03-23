@@ -1,0 +1,7 @@
+﻿.idea/
+.vscode/
+.hvigor/
+oh_modules/
+**/build/
+*.log
+.DS_Store
