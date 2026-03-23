@@ -110,6 +110,7 @@ Forest Whisper
 │  ├─ sleep-timer.png
 │  └─ community.png
 └─ README.md
+```
 ---
 ## 6.项目截图
 ```markdown
